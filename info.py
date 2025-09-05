@@ -121,7 +121,7 @@ THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "54000"))
 # Channel & Group Links Configuration
 # ============================
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/THE_MOVIES_ODIA_DISCUSSION3') # Group link for the bot
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/YT_Jagat') # Owner link for the bot
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/odiaa_movies_bot') # Owner link for the bot
 UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/the_movies_odia_official') # Update channel link for the bot
 
 # ============================
